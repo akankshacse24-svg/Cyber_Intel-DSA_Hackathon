@@ -1,0 +1,7 @@
+from,to,price,selected,coupon_used,final_price
+1,2,100,,No,100
+2,5,100,,No,100
+1,3,60,,No,60
+3,4,40,,No,40
+4,5,80,,No,80
+1,5,250,x,Yes,125
